@@ -1,4 +1,4 @@
 1. This repository contains resources related to Chapter 5 of the dissertation.<br>
 2. All [Python Notebooks](https://ibacity-my.sharepoint.com/:f:/g/personal/uali_iba_edu_pk/ElP2TV9b-EpLgKGWlmlGMRwBQvB7hA1XvcE3uK4blIepSw?e=JrT0uY) are available on one Drive. <br>
-3. The [PDF Versions](https://ibacity-my.sharepoint.com/:f:/g/personal/uali_iba_edu_pk/Euxv7sfYmxNJqQFFQqmdBTEBtPgwbP5o3TtU-ehCbx43pA?e=bkroUf) of the notebook are also available where the outputs are preserved. There 4. are some notebooks where output of visualizations may not be showing. <br>
-5. Notebooks due to large file size cannot be directly uploaded here. Python notebooks can be run after necessary path settings to generate the outputs. There can be small variations due to vraitions in the trainining of the Autoencoders. 
+3. The [PDF Versions](https://ibacity-my.sharepoint.com/:f:/g/personal/uali_iba_edu_pk/Euxv7sfYmxNJqQFFQqmdBTEBtPgwbP5o3TtU-ehCbx43pA?e=bkroUf) of the notebook are also available where the outputs are preserved. There are some notebooks where output of visualizations may not be showing. <br>
+5. Notebooks due to large file size cannot be directly uploaded here. Python notebooks can be run after necessary path settings to generate the outputs. There can be small variations due to varitions in the trainining of the Autoencoders. 
